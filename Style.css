@@ -1,0 +1,31 @@
+.div1 {
+    background-color: rgb(210, 105, 30);
+    width: 250px;
+    height: 250px;
+}
+.div2 {
+    background-color: rgb(127, 255, 0);
+    width: 125px;
+    height: 125px;
+
+}
+  .Pg {
+    color: black;
+    background-color: aqua;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+
+.div3 {
+    height: 50vh;
+    background-color: lightslategray;
+    width: 50%;
+
+}
+.div4 {
+    width: 75vh;
+    background-color: deeppink;
+    height: 50%;
+
+}
